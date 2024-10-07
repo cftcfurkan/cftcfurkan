@@ -13,7 +13,6 @@ I'm a Front-End Developer from Turkey.<img src="https://media.giphy.com/media/WU
   <a href="https://www.instagram.com/cftcfurkan/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  apo
   <a href="https://www.linkedin.com/in/cftcfurkan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
